@@ -14,7 +14,7 @@ This project implements a language detection model using Python and Jupyter Note
 	* Content Moderation: Filter and monitor multilingual user-generated content efficiently.
 	* Automated Translation Services: Preprocess and detect text language to optimize translation workflows.
 **Dataset**
-- <a href ="[https://github.com/BeingSaka/Credit-Card-Power-BI-Project/blob/main/customer.csv](https://github.com/BeingSaka/LanguageDetection-with-Python-Jupyter-Notebook-/blob/main/language.csv)" > Language</a>
+- <a href ="https://github.com/BeingSaka/LanguageDetection-with-Python-Jupyter-Notebook-/blob/main/language.csv" > Language</a>
 
 ** Link to Project**
-- <a href ="(https://github.com/BeingSaka/LanguageDetection-with-Python-Jupyter-Notebook-/blob/main/LanguageDetection.ipynb)" > Language Detection</a>
+- <a href ="https://github.com/BeingSaka/LanguageDetection-with-Python-Jupyter-Notebook-/blob/main/LanguageDetection.ipynb" > Language Detection</a>
