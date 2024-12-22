@@ -16,5 +16,5 @@ This project implements a language detection model using Python and Jupyter Note
 **Dataset**
 - <a href ="https://github.com/BeingSaka/LanguageDetection-with-Python-Jupyter-Notebook-/blob/main/language.csv" > Language</a>
 
-** Link to Project**
+**Link to Project**
 - <a href ="https://github.com/BeingSaka/LanguageDetection-with-Python-Jupyter-Notebook-/blob/main/LanguageDetection.ipynb" > Language Detection</a>
